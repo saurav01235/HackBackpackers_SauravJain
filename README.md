@@ -26,19 +26,15 @@ Steps
 ##Problem Statement 2 
 - Functions problem statement
 ### Description
-<Write some description for your solution>
+ADF Function implementation
 
 ### Prerequisite
-<Write any prerequisites needed to run your solution>
+environment setup to run adf function
 
 ### How to run
-<Write steps to run your solution>
-Steps
-1.
-2.
+call the module and pass the argument to get ralted output
 
-### Any other points to mention
-<Any other points if you want to mention>
+
 
 ##Problem Statement 3 
 - XML problem statement
